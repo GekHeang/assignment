@@ -1,0 +1,36 @@
+body {
+    background: darkgrey;
+    font-family: sans-serif;
+}
+.first_part,
+.second_part,
+.third_part{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    background-color: white;
+    border-radius: 10px;
+    height: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.button{
+    border-radius: 30px;
+    border: none;
+    height: 35px;
+    cursor: pointer;
+}
+
+#button_1{
+    background-color: green;
+}
+
+#button_2{
+    background-color: orange;
+}
+
+#button_3{
+    background-color: purple;
+}
